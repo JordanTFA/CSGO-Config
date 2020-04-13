@@ -110,7 +110,7 @@ bind TAB +shownet
 // ===== JORDAN LAND ====
 // ======================
 
-sensitivity 2
+sensitivity 1.6
 
 bind "mouse5" +voicerecord
 bind "mwheeldown" +jump
